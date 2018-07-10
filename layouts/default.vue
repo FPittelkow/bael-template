@@ -56,7 +56,7 @@ export default {
   components: {
     SlideOut,
     BaelHeader,
-    BaelFooter
+    //BaelFooter
   }
 };
 </script>
